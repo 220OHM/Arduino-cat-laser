@@ -1,2 +1,2 @@
 # Arduino-cat-laser
-my first real arduino project.
+its the Project i did alone and my proudest.
