@@ -1,8 +1,9 @@
-# Arduino-cat-laser
-its the Project i did alone and my proudest.
+# Arduino-repository
+my arduino projects
 
+# Arduino cat laser
  You need:
  2 Servos
  1 joystick
  1 arduino uno
- 
+
